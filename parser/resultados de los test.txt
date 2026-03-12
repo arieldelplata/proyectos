@@ -1,0 +1,33 @@
+test I
+[('num', '2123')]
+PRUEBA FINALIZADA
+test II
+[('id', 'jamon'), ('coma', ','), ('espacio_blanco', ' '), ('id', 'pan'), ('coma', ','), ('espacio_blanco', ' '), ('num', '234'), ('coma', ','), ('espacio_blanco', ' '), ('id', 'alan'), ('coma', ','), ('espacio_blanco', ' '), ('num', '232')]
+PRUEBA FINALIZADA
+test III
+[('num', '1234')]
+PRUEBA FINALIZADA
+test IV
+[('assign', ':='), ('espacio_blanco', ' '), ('puntoycoma', ';'), ('espacio_blanco', ' '), ('comparation', '<>'), ('espacio_blanco', ' '), ('puntoycoma', ';'), ('espacio_blanco', ' '), ('comparation', '>'), ('espacio_blanco', ' '), ('puntoycoma', ';'), ('espacio_blanco', ' '), ('comparation', '<'), ('espacio_blanco', ' '), ('parentesis inincial', '('), ('espacio_blanco', ' '), ('parentesis final', ')')]
+PRUEBA FINALIZADA
+test V
+[('procedure', 'procedure'), ('espacio_blanco', ' '), ('while', 'while'), ('coma', ','), ('do', 'do')]
+PRUEBA FINALIZADA
+test VI
+Error: caracter o expresion invalidos
+[]
+PRUEBA FINALIZADA
+test VII
+[('call', 'call'), ('espacio_blanco', ' '), ('puntoycoma', ';'), ('espacio_blanco', ' '), ('begin', 'begin'), ('espacio_blanco', ' ')]
+PRUEBA FINALIZADA
+test VIII
+[('end', 'end'), ('espacio_blanco', ' '), ('coma', ','), ('espacio_blanco', ' '), ('const', 'const'), ('puntoycoma', ';'), ('var', 'var'), ('espacio_blanco', ' ')]
+PRUEBA FINALIZADA
+test IX
+[('call', 'call'), ('espacio_blanco', ' '), ('coma', ','), ('espacio_blanco', ' '), ('if', 'if'), ('espacio_blanco', ' '), ('then', 'then'), 
+('espacio_blanco', ' '), ('id', 'w'), ('espacio_blanco', ' ')]
+PRUEBA FINALIZADA
+test X
+[('id', 'hernan'), ('espacio_blanco', ' '), ('id', 'ponenos'), ('espacio_blanco', ' '), ('id', 'un'), ('espacio_blanco', ' '), ('num', '10'), ('espacio_blanco', ' ')]
+PRUEBA FINALIZADA
+PS C:\Users\juani\Desktop\lexema.py>

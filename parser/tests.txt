@@ -1,0 +1,32 @@
+test I
+[('num', '2123'), ('num', '4')]
+PRUEBA FINALIZADA
+test II
+[('id', 'jamon'), ('coma', ','), ('id', 'pan'), ('coma', ','), ('num', '234'), ('coma', ','), ('id', 'alan'), ('coma', ','), ('num', '232'), ('fin programa', '#')]
+PRUEBA FINALIZADA
+test III
+[('num', '1234'), ('fin programa', '#')]
+PRUEBA FINALIZADA
+test IV
+[('assign', ':='), ('puntoycoma', ';'), ('comparison', '<>'), ('puntoycoma', ';'), ('comparison', '>'), ('puntoycoma', ';'), ('comparison', '<'), ('parentesis 
+inincial', '('), ('parentesis final', ')'), ('fin programa', '#')]
+PRUEBA FINALIZADA
+test V
+[('procedure', 'procedure'), ('while', 'while'), ('coma', ','), ('do', 'do'), ('fin programa', '#')]
+PRUEBA FINALIZADA
+test VI
+Error: caracter o expresion invalidos
+[]
+PRUEBA FINALIZADA
+test VII
+[('call', 'call'), ('puntoycoma', ';'), ('begin', 'begin'), ('fin programa', '#')]
+PRUEBA FINALIZADA
+test VIII        
+[('end', 'end'), ('coma', ','), ('const', 'const'), ('puntoycoma', ';'), ('var', 'var'), ('fin programa', '#')]
+PRUEBA FINALIZADA
+test IX
+[('call', 'call'), ('coma', ','), ('if', 'if'), ('then', 'then'), ('id', 'w'), ('fin programa', '#')]
+PRUEBA FINALIZADA
+test X
+[('id', 'hernan'), ('id', 'ponenos'), ('id', 'un'), ('num', '10'), ('fin programa', '#')]
+PRUEBA FINALIZADA
